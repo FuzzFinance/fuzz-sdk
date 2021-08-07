@@ -1,4 +1,4 @@
-# fuzzswap SDK
+# FuzzSwap SDK
 
 Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
@@ -17,7 +17,7 @@ git clone https://github.com/fuzzfinance/fuzz-swap-sdk.git
 Move into the fuzzswap-sdk working directory
 
 ```sh
-cd fuzzswap-sdk/
+cd fuzz-swap-sdk/
 ```
 
 Install dependencies
