@@ -1,7 +1,7 @@
 {
   "name": "@fuzzfinance/sdk",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🛠 An SDK for building applications on top of FuzzSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -10,9 +10,10 @@
   ],
   "repository": "https://github.com/fuzzfinance/fuzz-swap-sdk.git",
   "keywords": [
+    "fuzzfinance",
     "fuzzswap",
     "harmony",
-    "fuzzfinance"
+    "dex"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
