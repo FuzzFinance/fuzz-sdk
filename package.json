@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@fuzzfinance/sdk",
   "license": "MIT",
-  "version": "2.3.2",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "version": "1.0.6",
+  "description": "🛠 An SDK for building applications on top of FuzzSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/fuzzfinance/fuzz-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "fuzzfinance",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
+    "@fuzzfinance-libs/fuzz-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
