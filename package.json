@@ -1,7 +1,7 @@
 {
   "name": "@fuzzfinance/sdk",
   "license": "MIT",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "🛠 An SDK for building applications on top of FuzzSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -18,11 +18,10 @@
     "lint": "tsdx lint src test",
     "build": "tsdx build",
     "start": "tsdx watch",
-    "test": "tsdx test",
-    "prepublishOnly": "tsdx build"
+    "test": "tsdx test"
   },
   "dependencies": {
-    "@fuzzfinance-libs/fuzz-swap-core": "^0.1.0",
+    "@fuzzfinance-libs/fuzz-swap-core": "^1.0.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

@@ -1343,37 +1343,10 @@
     "@ethersproject/properties" "^5.4.0"
     "@ethersproject/strings" "^5.4.0"
 
-"@fuzzfinance-libs/fuzz-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@fuzzfinance-libs/fuzz-swap-core/-/fuzz-swap-core-0.1.0.tgz#d84ceefe3204837ddf1a480356393e4ab692e803"
-  integrity sha512-2BpF3k8BTnD28mPlD4EaPJV4Y+rSGKLpJSVBsI++egYL+PuSMoAiKybKuCwPQVb9Eu373+Birisgo9wGVr6+Ng==
-  dependencies:
-    truffle "^5.1.41"
-    truffle-flattener "^1.4.4"
-    truffle-hdwallet-provider "^1.0.17"
-
-"@fuzzfinance-libs/fuzz-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@fuzzfinance-libs/fuzz-swap-core/-/fuzz-swap-core-0.1.0.tgz#d84ceefe3204837ddf1a480356393e4ab692e803"
-  integrity sha512-2BpF3k8BTnD28mPlD4EaPJV4Y+rSGKLpJSVBsI++egYL+PuSMoAiKybKuCwPQVb9Eu373+Birisgo9wGVr6+Ng==
-  dependencies:
-    truffle "^5.1.41"
-    truffle-flattener "^1.4.4"
-    truffle-hdwallet-provider "^1.0.17"
-
-"@fuzzfinance-libs/fuzz-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@fuzzfinance-libs/fuzz-swap-core/-/fuzz-swap-core-0.1.0.tgz#d84ceefe3204837ddf1a480356393e4ab692e803"
-  integrity sha512-2BpF3k8BTnD28mPlD4EaPJV4Y+rSGKLpJSVBsI++egYL+PuSMoAiKybKuCwPQVb9Eu373+Birisgo9wGVr6+Ng==
-  dependencies:
-    truffle "^5.1.41"
-    truffle-flattener "^1.4.4"
-    truffle-hdwallet-provider "^1.0.17"
-
-"@fuzzfinance-libs/fuzz-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@fuzzfinance-libs/fuzz-swap-core/-/fuzz-swap-core-0.1.0.tgz#d84ceefe3204837ddf1a480356393e4ab692e803"
-  integrity sha512-2BpF3k8BTnD28mPlD4EaPJV4Y+rSGKLpJSVBsI++egYL+PuSMoAiKybKuCwPQVb9Eu373+Birisgo9wGVr6+Ng==
+"@fuzzfinance-libs/fuzz-swap-core@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@fuzzfinance-libs/fuzz-swap-core/-/fuzz-swap-core-1.0.1.tgz#3f5908feb5c5eda664c9d7f7ef8a27efa9ba49f8"
+  integrity sha512-hr4XC6UAuwvBcDxdHtWg8mBQ8hNoR+oJkxcdheD0FVtXN9zWHMoQKBfQnMcUN/NJKsuLaImfeJF7JXZeZM3RNg==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
