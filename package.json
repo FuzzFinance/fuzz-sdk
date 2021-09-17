@@ -1,7 +1,7 @@
 {
   "name": "@fuzzfinance/sdk",
   "license": "MIT",
-  "version": "1.0.9",
+  "version": "1.1.6",
   "description": "🛠 An SDK for building applications on top of FuzzSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -11,7 +11,7 @@
   "repository": "https://github.com/fuzzfinance/fuzz-sdk.git",
   "keywords": [
     "fuzzfinance",
-    "bsc"
+    "harmony"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
@@ -19,13 +19,14 @@
     "build": "tsdx build",
     "start": "tsdx watch",
     "test": "tsdx test",
-    "prepare": "npm run build"
+    "prepublish": "rimraf -rf ./dist && tsdx build"
   },
   "dependencies": {
     "@fuzzfinance-libs/fuzz-swap-core": "^1.0.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
+    "rimraf": "^3.0.2",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3",
     "toformat": "^2.0.0"
